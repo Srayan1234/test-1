@@ -218,6 +218,6 @@ body {
 }
 @media only screen and (max-width: 950px) {
     .nav {
-      height: 80px;
+      height: 1000px;
     }
 }
