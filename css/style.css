@@ -207,7 +207,7 @@ body {
       display: block;
       position: fixed;
       left: 5px;
-      font-size: 15px;
+      font-size: 25px;
       top: 0px;
     }
 }
@@ -218,6 +218,6 @@ body {
 }
 @media only screen and (max-width: 950px) {
     .nav {
-      height: 50px;
+      height: 80px;
     }
 }
